@@ -2,4 +2,8 @@
 <resources>
     <string name="app_name">Mapbox Navigation SDK for Android</string>
     <string name="description_dual_navigation_map">نحوه افزودن NavigationView و MapView را در یک طرح یکسان را نشان می دهد</string>
+    <string name="description_component_navigation">ناوبری Mapbox با اجزای UI</string>
+    <string name="description_embedded_navigation">پیمایش در نمایی که حاوی نماهای دیگر باشد</string>
+    <string name="description_end_navigation">نحوه پایان کار ناوبری را با استفاده از Navigation View نشان می دهد</string>
+    <string name="description_fragment_navigation">NavigationView با Fragment پیاده سازی شده است</string>
 </resources>
